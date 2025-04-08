@@ -2,11 +2,5 @@
 
 ## ✨ About this project
 
-**Profile Me** 
-
-## 🚀 Cara Deploy
-
-1. Clone repo ini:
-   ```bash
-   git clone https://github.com/kamu/casinoprojek.git
+**Profile Me** An Ultimate profile site like carrd in X and Something like that
    
